@@ -1,0 +1,27 @@
+.presentation{
+    margin: 30px;
+    width: 92%;
+    height: 150px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.texts{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+    color: rgb(0, 0, 0);
+    flex: 1;
+    min-width: 250px;
+    padding-right: 300px;
+}
+
+.my-picture img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 30px;
+    max-height: 300px;
+}
