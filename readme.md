@@ -38,7 +38,7 @@
 
 ##  Visão Geral
 
-Portifólio é uma estrutura simplificada de portfólio para desenvolvedores, projetada para exibir suas habilidades e projetos com clareza e estilo. Construído com uma arquitetura modular, facilita a manutenção e escalabilidade, sendo ideal para desenvolvedores que buscam uma presença online profissional.
+Este Portifólio é uma estrutura simplificada de portfólio para mim como desenvolvedor, projetada para exibir habilidades e projetos com clareza e estilo. Construído com uma arquitetura modular, facilita a manutenção e escalabilidade.
 
 ###  Funcionalidades principais:
 
@@ -56,7 +56,7 @@ Portifólio é uma estrutura simplificada de portfólio para desenvolvedores, pr
 
 Este projeto requer os seguintes itens:
 
-- Linguagem de Programação: **HTML**
+- Qualquer navegador.
 
 ---
 
