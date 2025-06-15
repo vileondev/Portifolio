@@ -25,7 +25,7 @@
 
 ---
 
-## 📚 Índice
+##  Índice
 
 - [Visão Geral](#visão-geral)
 - [Primeiros Passos](#primeiros-passos)
@@ -36,23 +36,23 @@
 
 ---
 
-## 🔍 Visão Geral
+##  Visão Geral
 
 Portifólio é uma estrutura simplificada de portfólio para desenvolvedores, projetada para exibir suas habilidades e projetos com clareza e estilo. Construído com uma arquitetura modular, facilita a manutenção e escalabilidade, sendo ideal para desenvolvedores que buscam uma presença online profissional.
 
-### ✨ Funcionalidades principais:
+###  Funcionalidades principais:
 
-- 🎨 **Aparência Visual**: Exibe projetos com cartões atrativos e de fácil navegação que destacam seu trabalho.
-- 🧩 **Estrutura Modular**: Separação clara de componentes que facilita integração, manutenção e atualizações.
-- 🌐 **Navegação Intuitiva**: Leva os visitantes de forma fluida aos seus projetos, habilidades e redes sociais.
-- 💼 **Gerenciamento de Portfólio**: Centraliza branding pessoal e conquistas técnicas.
-- ⚙️ **Personalizável**: Permite adaptar o layout e o conteúdo ao seu estilo e necessidades.
+-  **Aparência Visual**: Exibe projetos com cartões atrativos e de fácil navegação que destacam seu trabalho.
+-  **Estrutura Modular**: Separação clara de componentes que facilita integração, manutenção e atualizações.
+-  **Navegação Intuitiva**: Leva os visitantes de forma fluida aos seus projetos, habilidades e redes sociais.
+-  **Gerenciamento de Portfólio**: Centraliza branding pessoal e conquistas técnicas.
+-  **Personalizável**: Permite adaptar o layout e o conteúdo ao seu estilo e necessidades.
 
 ---
 
-## 🚀 Primeiros Passos
+##  Primeiros Passos
 
-### ✅ Pré-requisitos
+###  Pré-requisitos
 
 Este projeto requer os seguintes itens:
 
@@ -60,7 +60,7 @@ Este projeto requer os seguintes itens:
 
 ---
 
-### 🔧 Instalação
+###  Instalação
 
 Construa o Portifólio a partir do código-fonte seguindo os passos:
 
