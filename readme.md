@@ -60,3 +60,13 @@ Construa o Portifólio a partir do código-fonte seguindo os passos:
 
    ```bash
    cd Portifolio
+
+3. Uso:
+
+   ```bash
+   start index.html
+
+---
+
+
+Fim ;D
