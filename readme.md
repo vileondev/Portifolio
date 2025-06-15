@@ -6,7 +6,6 @@
 
 ---
 ## Organização de Arquivos
-    ```
     Code/
     ├── ASSETS/
     │   ├── css.png
