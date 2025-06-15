@@ -49,3 +49,37 @@
     justify-content: center;
     flex-wrap: wrap;
 }
+
+@media (max-width: 768px) {
+    .presentation {
+        flex-direction: column;
+        height: auto;
+        padding: 10px;
+        margin: 10px;
+        gap: 1rem;
+    }
+
+    .texts {
+        padding-right: 0;
+        min-width: auto;
+        width: 100%;
+    }
+
+    .icons {
+        margin-top: 40px;
+        gap: 20px;
+    }
+
+    .cartas {
+        gap: 30px;
+        padding-top: 30px;
+    }
+
+    .my-picture img {
+        max-height: 200px;
+    }
+
+    .icons img {
+        max-height: 40px;
+    }
+}
