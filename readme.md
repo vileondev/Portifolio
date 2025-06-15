@@ -54,4 +54,9 @@ Construa o Portifólio a partir do código-fonte seguindo os passos:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/vileondev/Portfolio```
+   git clone https://github.com/vileondev/Portfolio
+
+2. Navegue até o diretório do repositório:
+
+   ```bash
+   cd Portifolio
