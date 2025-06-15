@@ -1,14 +1,11 @@
-# 📁 PORTIFÓLIO
-
-> **Mostre seu Brilho, Inspire Oportunidades Futuras**
+# PORTIFÓLIO
 
 ![Badge Commit](https://img.shields.io/badge/último%20commit-hoje-blue)
 ![Badge HTML](https://img.shields.io/badge/html-68%25-blue)
 ![Badge Linguagens](https://img.shields.io/badge/linguagens-3-informational)
 
-Construído com as ferramentas e tecnologias:
-
-📝 **Markdown**
+---
+## Organização de Arquivos
 
 ---
 
