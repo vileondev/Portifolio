@@ -6,6 +6,23 @@
 
 ---
 ## Organização de Arquivos
+    ```
+    Code/
+    ├── ASSETS/
+    │   ├── css.png
+    │   ├── dart.png
+    │   ├── flutter.png
+    │   ├── html.png
+    │   ├── java.png
+    │   ├── me.jpg
+    │   └── python.png
+    ├── CSS/
+    │   ├── style.css
+    │   └── style.scss
+    ├── HTML/
+    │   └── projetos.html
+    └── index.html
+
 
 ---
 
