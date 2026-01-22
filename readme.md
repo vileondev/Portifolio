@@ -8,16 +8,12 @@
 ## Organização de Arquivos
     Code/
     ├── ASSETS/
-    │   ├── css.png
-    │   ├── dart.png
     │   ├── flutter.png
-    │   ├── html.png
-    │   ├── java.png
-    │   ├── me.jpg
+    │   ├── dotnet.png
+    │   ├── csharp.png
     │   └── python.png
     ├── CSS/
     │   ├── style.css
-    │   └── style.scss
     ├── HTML/
     │   └── projetos.html
     └── index.html
@@ -67,7 +63,7 @@ Construa o Portifólio a partir do código-fonte seguindo os passos:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/vileondev/Portfolio
+   git clone https://github.com/vileondev/Portifolio
 
 2. Navegue até o diretório do repositório:
 
